@@ -1,17 +1,17 @@
 {
   "$schema": "https://raw.githubusercontent.com/ScoopInstaller/Scoop/master/schema.json",
-  "version": "0.9.3",
+  "version": "0.10.0",
   "description": "Local-first security auditor with 263 deterministic rules, optional model triage and a stdio MCP server.",
   "homepage": "https://github.com/LevapVeeskela/lv24-vigil",
   "license": "Apache-2.0",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/LevapVeeskela/lv24-vigil/releases/download/v0.9.3/vigil_0.9.3_windows_amd64.exe#/vigil.exe",
-      "hash": "6a2f7ded2ce990139f6675c0fda9922a247c6d4cebb073e5c2a515700a1b22f1"
+      "url": "https://github.com/LevapVeeskela/lv24-vigil/releases/download/v0.10.0/vigil_0.10.0_windows_amd64.exe#/vigil.exe",
+      "hash": "5f623e9069f2ec67b9df0261d3f9ebaf0eb8209fda46ad4a81699c6a8dafc655"
     },
     "arm64": {
-      "url": "https://github.com/LevapVeeskela/lv24-vigil/releases/download/v0.9.3/vigil_0.9.3_windows_arm64.exe#/vigil.exe",
-      "hash": "4e4eda45a3eb0dd769cca0c767d97675e8fe58ab6f521051207969308442a385"
+      "url": "https://github.com/LevapVeeskela/lv24-vigil/releases/download/v0.10.0/vigil_0.10.0_windows_arm64.exe#/vigil.exe",
+      "hash": "e0fa10263bad589a678a82735dae75896d4ce805df3f31b962a8f194f80ca25a"
     }
   },
   "bin": "vigil.exe",
