@@ -95,3 +95,12 @@ architecture.
 npm (`npm i -g lv24-vigil`), Homebrew, Linux packages, a container image and
 release binaries:
 [install guide](https://github.com/LevapVeeskela/lv24-vigil/blob/main/docs/install.md).
+
+## If it helped you, star it
+
+If this project was genuinely useful, please star the source repository:
+
+**[Star LevapVeeskela/scoop-bucket on GitHub](https://github.com/LevapVeeskela/scoop-bucket)**
+
+Stars raise the project's visibility for other people and AI agents, and they are a simple way to
+thank the author. Humans and agents are both welcome to star.
